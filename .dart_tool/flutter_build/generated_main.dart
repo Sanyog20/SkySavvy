@@ -5,10 +5,10 @@
 
 // @dart = 2.15
 
-// When `package:clima/main.dart` defines `main`, that definition is shadowed by the definition below.
-export 'package:clima/main.dart';
+// When `package:SkySavvy/main.dart` defines `main`, that definition is shadowed by the definition below.
+export 'package:SkySavvy/main.dart';
 
-import 'package:clima/main.dart' as entrypoint;
+import 'package:SkySavvy/main.dart' as entrypoint;
 import 'dart:io'; // flutter_ignore: dart_io_import.
 import 'package:geolocator_android/geolocator_android.dart';
 import 'package:geolocator_apple/geolocator_apple.dart';

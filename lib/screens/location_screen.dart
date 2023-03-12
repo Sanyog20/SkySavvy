@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:clima/utilities/constants.dart';
-import 'package:clima/services/weather.dart';
-import 'package:clima/screens/city_screen.dart';
+import 'package:SkySavvy/utilities/constants.dart';
+import 'package:SkySavvy/services/weather.dart';
+import 'package:SkySavvy/screens/city_screen.dart';
 
 class LocationScreen extends StatefulWidget {
   LocationScreen(this.locationWeather);
